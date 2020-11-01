@@ -10,7 +10,7 @@ We had two specific assignments:
 Here are four major points from the two analysis deliverables:
 
 - Taking in consideration all the titles of current employees who were born between January 1, 1952 and December 31, 1955, the number of retiring employees per title is 133,776.
-- Some employees may have multiple titles in the database due to promotions thourgh out the life in the company, we eliminated duplicate rows from the result and now the number of retiring employees per title decreased to 90,398.
+- Some employees may have multiple titles in the database due to promotions throughout the life in the company, we eliminated duplicate rows from the result and now the number of retiring employees per title decreased to 90,398.
 - The most recent job title with the highest number of employees who are about to retire is Senior Engineer. See image below for reference:
 
 <img width="275" alt="Screen Shot 2020-11-01 at 2 24 45 PM" src="https://user-images.githubusercontent.com/70611325/97816937-0d3c1400-1c4e-11eb-9e18-af6d012651e2.png">
